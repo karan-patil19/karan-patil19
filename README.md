@@ -9,7 +9,7 @@
 <ul>
   <li>🌱 I’m currently learning <em>Full Stack Web Development.</em></li>
   <li>🚀 I have learned <em>HTML, CSS, JS.</em> I’m currently doing <em>React.</em></li>
-  <li>📫 How to reach me <strong>kevalrp2004@gmail.com</strong></li>
+  <li>📫 How to reach me <strong>karanhemrajpatil1907@gmail.com</strong></li>
 </ul>
 
 <h2>Connect with Me</h2>
