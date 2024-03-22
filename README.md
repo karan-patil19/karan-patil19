@@ -68,19 +68,19 @@
 
 <p>
   <a href="https://github.com/karan-patil19/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KevalP24">
+    <img src="https://komarev.com/ghpvc/?username=karan-patil19">
   </a>
   <a href="https://github.com/karan-patil19?tab=followers">
-    <img src="https://img.shields.io/github/followers/KevalP24?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/karan-patil19?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KevalP24&show_icons=true&locale=en" alt="KevalP24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karan-patil19&show_icons=true&locale=en" alt="karan-patil19" />
 </p>
 
 <h2>Github Contribution Stats</h2>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevalP24&" alt="KevalP24" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-patil19&" alt="karan-patil19" />
 </p>
