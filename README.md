@@ -61,16 +61,16 @@
 </table>    
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalP24&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-patil19&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 <h2>Github Profile Stats</h2>
 
 <p>
-  <a href="https://github.com/KevalP24/github-profile-views-counter">
+  <a href="https://github.com/karan-patil19/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KevalP24">
   </a>
-  <a href="https://github.com/KevalP24?tab=followers">
+  <a href="https://github.com/karan-patil19?tab=followers">
     <img src="https://img.shields.io/github/followers/KevalP24?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
